@@ -1,0 +1,18 @@
+#IncludeRegexLine: ^[ 	]*#[ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/spudro/projects/cpp/stepic0/main.cxx
+iostream
+-
+Array.cpp
+/home/spudro/projects/cpp/stepic0/Array.cpp
+
+ArrayClass/Array.cpp
+cstddef
+-
+

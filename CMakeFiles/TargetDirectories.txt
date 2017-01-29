@@ -1,0 +1,6 @@
+/home/spudro/projects/cpp/stepic0/CMakeFiles/rebuild_cache.dir
+/home/spudro/projects/cpp/stepic0/CMakeFiles/edit_cache.dir
+/home/spudro/projects/cpp/stepic0/CMakeFiles/main.dir
+/home/spudro/projects/cpp/stepic0/ArrayClass/CMakeFiles/edit_cache.dir
+/home/spudro/projects/cpp/stepic0/ArrayClass/CMakeFiles/rebuild_cache.dir
+/home/spudro/projects/cpp/stepic0/ArrayClass/CMakeFiles/Array.dir
